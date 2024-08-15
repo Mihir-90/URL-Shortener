@@ -1,4 +1,3 @@
-package URLShortener;
 
 import java.util.Scanner;
 
